@@ -1,0 +1,6 @@
+{
+  "name": "Sistem Inventaris Barang & Manajemen Stok Pro",
+  "description": "Aplikasi web inventaris barang enterprise dengan manajemen stok real-time, pelaporan otomatis terintegrasi, dan sistem kontrol akses berbasis peran (RBAC).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
